@@ -6,12 +6,12 @@ var activities = ["sport player", "artist", "risk taker", "couch potato"]
 niblings.pop()
 console.log(niblings)
 
-// This method will add the element in the parenthesis to the beginning of the array.
-// line 11 will print the output
+/* This method will add the element in the parenthesis to the beginning of the array.
+line 11 will print the output */
 niblingsAges.unshift(67)
 console.log(niblingsAges)
 
-// This method will add the element in the parenthesis to the end of the array.
-// line 17 will print the output
+/* This method will add the element in the parenthesis to the end of the array.
+line 17 will print the output */
 activities.push("runner")
 console.log(activities)
